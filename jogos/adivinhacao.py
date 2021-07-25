@@ -14,5 +14,9 @@ if(numero_secreto == chute_int):
     print("Parabéns! Você acertou!")
 else:
     print("Como diria o Fautão: ERRRRROOOOOUUUUUU!")
+    if(chute_int > numero_secreto):
+        print("O seu chute foi maior do que o número secreto.")
+    elif(chute_int < numero_secreto):
+        print("O seu chute foi menor do que o número secreto.")
 
 print("Fim de jogo.")
