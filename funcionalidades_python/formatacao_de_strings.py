@@ -24,3 +24,4 @@ print("Data {:02d}/{:02d}".format(9,4))
 nome = "Marcelo Firmino"
 print(f"Meu nome é {nome}")
 print(f"Meu nome é {nome.lower()}")
+
