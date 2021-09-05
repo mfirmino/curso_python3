@@ -53,7 +53,7 @@ def imprime_msg_abertura():
     print("*********************************")
 
 def carrega_palavra_secreta():
-    with open('palavras.txt', 'r') as arquivo:
+    with open('curso_python3/jogos/palavras.txt', 'r') as arquivo:
         palavras = []
 
         for linha in arquivo:
