@@ -153,7 +153,8 @@ def carrega_palavra_secreta(nome_arquivo="curso_python3/jogos/palavras.txt"):
         palavras = []
 
         for linha in arquivo:
-            palavras.append(linha.strip())
+            if (linha.strip() != ""):
+                palavras.append(linha.strip())
 
     palavra_secreta = palavras[random.randrange(0, len(palavras))].upper()
     return palavra_secreta
