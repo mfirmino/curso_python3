@@ -5,3 +5,6 @@ Morango
 Jamelao
 Uva
 Tomate
+Abacaxi
+Pera
+Lichia
