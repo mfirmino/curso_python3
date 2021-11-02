@@ -5,6 +5,7 @@ lista.append(5)
 print(lista)
 lista.pop()
 print(lista)
+print(lista.count(4)) #retorna quantas vezes esse valor é referenciado
 
 #tuplas - Listas imutáveis
 tuplas = (0,1,2,3)
