@@ -37,3 +37,7 @@ inteiros = [1,3,4,5,7,8,9]
 print(inteiros)
 pares = [x for x in inteiros if x % 2 == 0]
 print(pares)
+
+#dicionários - Equivalente aos Maps em JAVA
+dicionario = {'BB': '001', 'Caixa': '104', 'Bradesco':'237', 'Itau':'341'}
+print(dicionario['BB'])
