@@ -1,3 +1,4 @@
+# Adicionamos dois caracteres _ antes e depois do nome da função construtora, para criarmos __init__
 # self seria o equivalente ao this em Java
 # None seria o equivalente ao null em Java
 # Atributos privados são definidos por "__" dois underscores, porém não impede de vc acessá-los
