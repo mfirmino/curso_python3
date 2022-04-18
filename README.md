@@ -6,3 +6,6 @@ Pasta contendo algumas funcionalidades interessantes em python
 
 ## Pasta: jogos
 Desenvolvendo um jogo de adivinhação de números. Primeiro exercício do curso em questão.
+
+## Pasta: oo
+Pasta contendo os conceitos básicos de orientação a objetos em python.
